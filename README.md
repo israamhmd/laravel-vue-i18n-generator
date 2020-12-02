@@ -1,8 +1,5 @@
 ## About
 
-**NO LONGER MAINTAINED**
-
-
 [![Build Status](https://travis-ci.org/djedaini/laravel-vue-i18n-generator.png?branch=master)](https://travis-ci.org/djedaini/laravel-vue-i18n-generator)
 
 
