@@ -1,6 +1,6 @@
 <?php
 
-use DJEDAINI\VueInternationalizationGenerator\Generator;
+use israamhmd\VueInternationalizationGenerator\Generator;
 
 class GenerateTest extends \PHPUnit_Framework_TestCase
 {
